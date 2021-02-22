@@ -1,0 +1,9 @@
+C:\Users\herso\OneDrive\Skrivebord\Obligatorisk opgave\Opgave 1\Beer\Beer\bin\Debug\netcoreapp3.1\Beer.deps.json
+C:\Users\herso\OneDrive\Skrivebord\Obligatorisk opgave\Opgave 1\Beer\Beer\bin\Debug\netcoreapp3.1\Beer.dll
+C:\Users\herso\OneDrive\Skrivebord\Obligatorisk opgave\Opgave 1\Beer\Beer\bin\Debug\netcoreapp3.1\Beer.pdb
+C:\Users\herso\OneDrive\Skrivebord\Obligatorisk opgave\Opgave 1\Beer\Beer\obj\Debug\netcoreapp3.1\Beer.csprojAssemblyReference.cache
+C:\Users\herso\OneDrive\Skrivebord\Obligatorisk opgave\Opgave 1\Beer\Beer\obj\Debug\netcoreapp3.1\Beer.AssemblyInfoInputs.cache
+C:\Users\herso\OneDrive\Skrivebord\Obligatorisk opgave\Opgave 1\Beer\Beer\obj\Debug\netcoreapp3.1\Beer.AssemblyInfo.cs
+C:\Users\herso\OneDrive\Skrivebord\Obligatorisk opgave\Opgave 1\Beer\Beer\obj\Debug\netcoreapp3.1\Beer.csproj.CoreCompileInputs.cache
+C:\Users\herso\OneDrive\Skrivebord\Obligatorisk opgave\Opgave 1\Beer\Beer\obj\Debug\netcoreapp3.1\Beer.dll
+C:\Users\herso\OneDrive\Skrivebord\Obligatorisk opgave\Opgave 1\Beer\Beer\obj\Debug\netcoreapp3.1\Beer.pdb
